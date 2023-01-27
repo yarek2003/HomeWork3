@@ -88,7 +88,7 @@ public class Main {
         int brownCans = brownCansOnClass * classes;
 
         System.out.println("Задача 5");
-        System.out.println("НВ школе, где " + classes + " классов, нужно " + whiteCans + " банок белой краски и " + brownCans + " банок коричневой краски ");
+        System.out.println("В школе, где " + classes + " классов, нужно " + whiteCans + " банок белой краски и " + brownCans + " банок коричневой краски ");
     }
     public static void task6() {
         short bananaWeight = 80;
@@ -133,7 +133,7 @@ public class Main {
         int yearGrowthKristina = 12 * (newSalaryKristina - salaryKristina);
 
 
-        System.out.println("Задача 7");
+        System.out.println("Задача 8");
         System.out.println("Маша теперь получает " + newSalaryMasha + " рублей. Годовой доход вырос на " + yearGrowthMasha + " рублей");
         System.out.println("Денис теперь получает " + newSalaryDenis + " рублей. Годовой доход вырос на " + yearGrowthDenis + " рублей");
         System.out.println("Кристина теперь получает " + newSalaryKristina + " рублей. Годовой доход вырос на " + yearGrowthKristina + " рублей");
