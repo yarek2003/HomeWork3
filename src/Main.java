@@ -40,7 +40,7 @@ public class Main {
 
 
         System.out.println("Задача 2");
-
+        System.out.println("Переменным присвоены заданные значения");
     }
 
     public static void task3() {
