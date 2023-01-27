@@ -32,7 +32,7 @@ public class Main {
         float a = 27.12f;
         long b = 987678965549L;
         int c = 3000000;
-        float d = 2.786f;
+        double d = 2.786;
         short e = 569;
         short f = -159;
         int g = 27897; //использовал int потому что при операциях вероятно выйдет за пределы
